@@ -54,3 +54,6 @@ docs/_build/
 
 # Sublime configs
 *.sublime*
+
+# Instance secrets
+instance/*
